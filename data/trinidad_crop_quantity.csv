@@ -1,0 +1,320 @@
+Crop,Crop_Type,Planted_in_hectares,Year
+      Dasheen Bush,Green Vegetables,4,2009
+      Sorrel,Green Vegetables,104,2009
+      Cassava,Root Crops,841,2009
+      Dasheen,Root Crops,378,2009
+      Yam,Root Crops,0,2009
+      Tannia,Root Crops,6,2009
+      Eddoes,Root Crops,207,2009
+      Ginger,Root Crops,22,2009
+      Sweet Potato,Root Crops,130,2009
+      Green Corn,Other Pulses,688,2009
+      Dry Corn,Other Pulses,5,2009
+      Beans,Other Pulses,64,2009
+      Pigeon Peas,Other Pulses,742,2009
+Rice,Paddy,,2009
+      Tomato,Green Vegetables,242,2010
+      Cabbage,Green Vegetables,68,2010
+      Cucumber,Green Vegetables,179,2010
+      Melongene,Green Vegetables,115,2010
+      Bodi,Green Vegetables,134,2010
+      Ochro,Green Vegetables,368,2010
+      Lettuce,Green Vegetables,104,2010
+      Pumpkin,Green Vegetables,354,2010
+      Patchoi,Green Vegetables,74,2010
+      Water Melon,Green Vegetables,55,2010
+      Sweet Pepper,Green Vegetables,87,2010
+      Celery,Green Vegetables,8,2010
+      Cauliflower,Green Vegetables,25,2010
+      Chive,Green Vegetables,32,2010
+      Hot Pepper,Green Vegetables,355,2010
+      Dasheen Bush,Green Vegetables,45,2010
+      Sorrel,Green Vegetables,107,2010
+      Cassava,Root Crops,750,2010
+      Dasheen,Root Crops,227,2010
+      Yam,Root Crops,20,2010
+      Tannia,Root Crops,0,2010
+      Eddoes,Root Crops,367,2010
+      Ginger,Root Crops,186,2010
+      Sweet Potato,Root Crops,420,2010
+      Green Corn,Other Pulses,515,2010
+      Dry Corn,Other Pulses,0,2010
+      Beans,Other Pulses,18,2010
+      Pigeon Peas,Other Pulses,1270,2010
+Rice,Paddy,1982,2010
+      Tomato,Green Vegetables,264,2011
+      Cabbage,Green Vegetables,61,2011
+      Cucumber,Green Vegetables,184,2011
+      Melongene,Green Vegetables,403,2011
+      Bodi,Green Vegetables,102,2011
+      Ochro,Green Vegetables,623,2011
+      Lettuce,Green Vegetables,135,2011
+      Pumpkin,Green Vegetables,428,2011
+      Patchoi,Green Vegetables,84,2011
+      Water Melon,Green Vegetables,270,2011
+      Sweet Pepper,Green Vegetables,22,2011
+      Celery,Green Vegetables,10,2011
+      Cauliflower,Green Vegetables,21,2011
+      Chive,Green Vegetables,25,2011
+      Hot Pepper,Green Vegetables,214,2011
+      Dasheen Bush,Green Vegetables,2,2011
+      Sorrel,Green Vegetables,58,2011
+      Cassava,Root Crops,804,2011
+      Dasheen,Root Crops,223,2011
+      Yam,Root Crops,25,2011
+      Tannia,Root Crops,0,2011
+      Eddoes,Root Crops,315,2011
+      Sweet Potato,Root Crops,365,2012
+      Green Corn,Other Pulses,459,2012
+      Dry Corn,Other Pulses,0,2012
+      Beans,Other Pulses,15,2012
+      Pigeon Peas,Other Pulses,1002,2012
+Rice,Paddy,2420,2012
+      Tomato,Green Vegetables,188,2013
+      Cabbage,Green Vegetables,54,2013
+      Cucumber,Green Vegetables,200,2013
+      Melongene,Green Vegetables,158,2013
+      Bodi,Green Vegetables,203,2013
+      Ochro,Green Vegetables,402,2013
+      Lettuce,Green Vegetables,163,2013
+      Pumpkin,Green Vegetables,578,2013
+      Patchoi,Green Vegetables,148,2013
+      Water Melon,Green Vegetables,102,2013
+      Sweet Pepper,Green Vegetables,19,2013
+      Celery,Green Vegetables,5,2013
+      Cauliflower,Green Vegetables,75,2013
+      Chive,Green Vegetables,39,2013
+      Hot Pepper,Green Vegetables,485,2013
+      Dasheen Bush,Green Vegetables,3,2013
+      Sorrel,Green Vegetables,116,2013
+      Cassava,Root Crops,140,2013
+      Dasheen,Root Crops,381,2013
+      Yam,Root Crops,15,2013
+      Tannia,Root Crops,0,2013
+      Eddoes,Root Crops,347,2013
+      Ginger,Root Crops,396,2013
+      Sweet Potato,Root Crops,407,2013
+      Green Corn,Other Pulses,649,2013
+      Dry Corn,Other Pulses,0,2013
+      Beans,Other Pulses,39,2013
+      Pigeon Peas,Other Pulses,915,2013
+Rice,Paddy,2507,2013
+      Patchoi,Green Vegetables,42,2006
+      Water Melon,Green Vegetables,685,2006
+      Sweet Pepper,Green Vegetables,40,2006
+      Celery,Green Vegetables,7,2006
+      Cauliflower,Green Vegetables,20,2006
+      Chive,Green Vegetables,57,2006
+      Hot Pepper,Green Vegetables,168,2006
+      Dasheen Bush,Green Vegetables,0,2006
+      Sorrel,Green Vegetables,33,2006
+      Cassava,Root Crops,394,2006
+      Dasheen,Root Crops,147,2006
+      Yam,Root Crops,0,2006
+      Tannia,Root Crops,0,2006
+      Eddoes,Root Crops,61,2006
+      Ginger,Root Crops,25,2006
+      Sweet Potato,Root Crops,44,2006
+      Green Corn,Other Pulses,205,2006
+      Dry Corn,Other Pulses,0,2006
+      Beans,Other Pulses,9,2006
+      Pigeon Peas,Other Pulses,88,2006
+Rice,Paddy,1881,2006
+      Tomato,Green Vegetables,309,2007
+      Cabbage,Green Vegetables,105,2007
+      Cucumber,Green Vegetables,492,2007
+      Melongene,Green Vegetables,355,2007
+      Bodi,Green Vegetables,241,2007
+      Ochro,Green Vegetables,471,2007
+      Lettuce,Green Vegetables,90,2007
+      Pumpkin,Green Vegetables,695,2007
+      Patchoi,Green Vegetables,32,2007
+      Water Melon,Green Vegetables,591,2007
+      Sweet Pepper,Green Vegetables,101,2007
+      Celery,Green Vegetables,2,2007
+      Cauliflower,Green Vegetables,19,2007
+      Chive,Green Vegetables,17,2007
+      Hot Pepper,Green Vegetables,86,2007
+      Dasheen Bush,Green Vegetables,12,2007
+      Sorrel,Green Vegetables,29,2007
+      Cassava,Root Crops,666,2007
+      Dasheen,Root Crops,396,2007
+      Yam,Root Crops,1,2007
+      Tannia,Root Crops,0,2007
+      Eddoes,Root Crops,280,2007
+      Ginger,Root Crops,71,2007
+      Sweet Potato,Root Crops,428,2007
+      Green Corn,Other Pulses,583,2007
+      Dry Corn,Other Pulses,0,2007
+      Beans,Other Pulses,99,2007
+      Pigeon Peas,Other Pulses,352,2007
+Rice,Paddy,2182,2007
+      Tomato,Green Vegetables,232,2008
+      Cabbage,Green Vegetables,111,2008
+      Cucumber,Green Vegetables,533,2008
+      Melongene,Green Vegetables,407,2008
+      Bodi,Green Vegetables,421,2008
+      Ochro,Green Vegetables,696,2008
+      Lettuce,Green Vegetables,111,2008
+      Pumpkin,Green Vegetables,979,2008
+      Patchoi,Green Vegetables,64,2008
+      Water Melon,Green Vegetables,300,2008
+      Sweet Pepper,Green Vegetables,117,2008
+      Celery,Green Vegetables,9,2008
+      Cauliflower,Green Vegetables,64,2008
+      Chive,Green Vegetables,15,2008
+      Hot Pepper,Green Vegetables,233,2008
+      Dasheen Bush,Green Vegetables,10,2008
+      Sorrel,Green Vegetables,98,2008
+      Cassava,Root Crops,502,2008
+      Dasheen,Root Crops,529,2008
+      Yam,Root Crops,2,2008
+      Ginger,Root Crops,292,2011
+      Sweet Potato,Root Crops,401,2011
+      Green Corn,Other Pulses,1210,2011
+      Dry Corn,Other Pulses,2,2011
+      Beans,Other Pulses,7,2011
+      Pigeon Peas,Other Pulses,953,2011
+Rice,Paddy,2335,2011
+      Tomato,Green Vegetables,118,2012
+      Cabbage,Green Vegetables,34,2012
+      Cucumber,Green Vegetables,85,2012
+      Melongene,Green Vegetables,167,2012
+      Bodi,Green Vegetables,105,2012
+      Ochro,Green Vegetables,503,2012
+      Lettuce,Green Vegetables,179,2012
+      Pumpkin,Green Vegetables,702,2012
+      Patchoi,Green Vegetables,159,2012
+      Water Melon,Green Vegetables,32,2012
+      Sweet Pepper,Green Vegetables,29,2012
+      Celery,Green Vegetables,4,2012
+      Cauliflower,Green Vegetables,22,2012
+      Chive,Green Vegetables,15,2012
+      Hot Pepper,Green Vegetables,145,2012
+      Dasheen Bush,Green Vegetables,2,2012
+      Sorrel,Green Vegetables,10,2012
+      Cassava,Root Crops,186,2012
+      Dasheen,Root Crops,256,2012
+      Yam,Root Crops,5,2012
+      Tannia,Root Crops,0,2012
+      Eddoes,Root Crops,111,2012
+      Ginger,Root Crops,301,2012
+      Tomato,Green Vegetables,123,2003
+      Cabbage,Green Vegetables,132,2003
+      Cucumber,Green Vegetables,179,2003
+      Melongene,Green Vegetables,232,2003
+      Bodi,Green Vegetables,205,2003
+      Ochro,Green Vegetables,324,2003
+      Lettuce,Green Vegetables,74,2003
+      Pumpkin,Green Vegetables,610,2003
+      Patchoi,Green Vegetables,270,2003
+      Water Melon,Green Vegetables,266,2003
+      Sweet Pepper,Green Vegetables,90,2003
+      Celery,Green Vegetables,6,2003
+      Cauliflower,Green Vegetables,80,2003
+      Chive,Green Vegetables,14,2003
+      Hot Pepper,Green Vegetables,271,2003
+      Dasheen Bush,Green Vegetables,16,2003
+      Sorrel,Green Vegetables,189,2003
+      Cassava,Root Crops,278,2003
+      Dasheen,Root Crops,328,2003
+      Yam,Root Crops,0,2003
+      Tannia,Root Crops,2,2003
+      Eddoes,Root Crops,389,2003
+      Ginger,Root Crops,17,2003
+      Sweet Potato,Root Crops,91,2003
+      Green Corn,Other Pulses,1485,2003
+      Dry Corn,Other Pulses,152,2003
+      Beans,Other Pulses,30,2003
+      Pigeon Peas,Other Pulses,1854,2003
+Rice,Paddy,1106,2003
+      Tomato,Green Vegetables,238,2004
+      Cabbage,Green Vegetables,63,2004
+      Cucumber,Green Vegetables,238,2004
+      Melongene,Green Vegetables,383,2004
+      Bodi,Green Vegetables,96,2004
+      Ochro,Green Vegetables,273,2004
+      Lettuce,Green Vegetables,86,2004
+      Pumpkin,Green Vegetables,832,2004
+      Patchoi,Green Vegetables,113,2004
+      Water Melon,Green Vegetables,73,2004
+      Sweet Pepper,Green Vegetables,154,2004
+      Celery,Green Vegetables,2,2004
+      Cauliflower,Green Vegetables,49,2004
+      Chive,Green Vegetables,23,2004
+      Hot Pepper,Green Vegetables,391,2004
+      Dasheen Bush,Green Vegetables,1,2004
+      Sorrel,Green Vegetables,38,2004
+      Cassava,Root Crops,123,2004
+      Dasheen,Root Crops,448,2004
+      Yam,Root Crops,1,2004
+      Tannia,Root Crops,0,2004
+      Eddoes,Root Crops,94,2004
+      Ginger,Root Crops,19,2004
+      Sweet Potato,Root Crops,55,2004
+      Green Corn,Other Pulses,110,2004
+      Dry Corn,Other Pulses,0,2004
+      Beans,Other Pulses,28,2004
+      Pigeon Peas,Other Pulses,457,2004
+Rice,Paddy,1233,2004
+      Tomato,Green Vegetables,251,2005
+      Cabbage,Green Vegetables,90,2005
+      Cucumber,Green Vegetables,336,2005
+      Melongene,Green Vegetables,370,2005
+      Bodi,Green Vegetables,269,2005
+      Ochro,Green Vegetables,329,2005
+      Lettuce,Green Vegetables,131,2005
+      Pumpkin,Green Vegetables,805,2005
+      Patchoi,Green Vegetables,137,2005
+      Water Melon,Green Vegetables,353,2005
+      Sweet Pepper,Green Vegetables,129,2005
+      Celery,Green Vegetables,4,2005
+      Cauliflower,Green Vegetables,30,2005
+      Chive,Green Vegetables,13,2005
+      Hot Pepper,Green Vegetables,648,2005
+      Dasheen Bush,Green Vegetables,4,2005
+      Sorrel,Green Vegetables,47,2005
+      Cassava,Root Crops,306,2005
+      Tannia,Root Crops,7,2008
+      Eddoes,Root Crops,518,2008
+      Ginger,Root Crops,133,2008
+      Sweet Potato,Root Crops,305,2008
+      Green Corn,Other Pulses,425,2008
+      Dry Corn,Other Pulses,0,2008
+      Beans,Other Pulses,32,2008
+      Pigeon Peas,Other Pulses,731,2008
+Rice,Paddy,2182,2008
+      Tomato,Green Vegetables,200,2009
+      Cabbage,Green Vegetables,26,2009
+      Cucumber,Green Vegetables,522,2009
+      Melongene,Green Vegetables,195,2009
+      Bodi,Green Vegetables,442,2009
+      Ochro,Green Vegetables,567,2009
+      Lettuce,Green Vegetables,131,2009
+      Pumpkin,Green Vegetables,731,2009
+      Patchoi,Green Vegetables,224,2009
+      Water Melon,Green Vegetables,246,2009
+      Sweet Pepper,Green Vegetables,55,2009
+      Celery,Green Vegetables,21,2009
+      Cauliflower,Green Vegetables,87,2009
+      Chive,Green Vegetables,19,2009
+      Hot Pepper,Green Vegetables,671,2009
+      Dasheen,Root Crops,585,2005
+      Yam,Root Crops,0,2005
+      Tannia,Root Crops,0,2005
+      Eddoes,Root Crops,348,2005
+      Ginger,Root Crops,43,2005
+      Sweet Potato,Root Crops,208,2005
+      Green Corn,Other Pulses,547,2005
+      Dry Corn,Other Pulses,80,2005
+      Beans,Other Pulses,29,2005
+      Pigeon Peas,Other Pulses,1037,2005
+Rice,Paddy,1164,2005
+      Tomato,Green Vegetables,246,2006
+      Cabbage,Green Vegetables,331,2006
+      Cucumber,Green Vegetables,466,2006
+      Melongene,Green Vegetables,241,2006
+      Bodi,Green Vegetables,124,2006
+      Ochro,Green Vegetables,414,2006
+      Lettuce,Green Vegetables,86,2006
+      Pumpkin,Green Vegetables,1097,2006
