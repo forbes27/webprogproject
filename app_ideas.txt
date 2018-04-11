@@ -1,0 +1,4 @@
+identify most popularly grown crop in farmer's area
+identify most sold crop in farmer's area
+predict which crop will be most popular within the next n years
+return recommendation value based on likelihood successfully selling crop and max potential profits
